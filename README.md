@@ -16,24 +16,24 @@ Data info:
 The data set is taken from the github of YBI foundation
 The data set contains the following columns:
 
-Movie_ID
-Movie_Title
-Movie_Genre
-Movie_Language
-Movie_Budget
-Movie_Popularity
-Movie_Release_Date
-Movie_Revenue
-Movie_Runtime
-Movie_Vote
-Movie_Vote_Count
-Movie_Homepage
-Movie_Keywords
-Movie_Overview
-Movie_Production_House
-Movie_Production_Country
-Movie_Spoken_Language
-Movie_Tagline
-Movie_Cast
-Movie_Crew
+Movie_ID,
+Movie_Title,
+Movie_Genre,
+Movie_Language,
+Movie_Budget,
+Movie_Popularity,
+Movie_Release_Date,
+Movie_Revenue,
+Movie_Runtime,
+Movie_Vote,
+Movie_Vote_Count,
+Movie_Homepage,
+Movie_Keywords,
+Movie_Overview,
+Movie_Production_House,
+Movie_Production_Country,
+Movie_Spoken_Language,
+Movie_Tagline,
+Movie_Cast,
+Movie_Crew,
 Movie_Director
