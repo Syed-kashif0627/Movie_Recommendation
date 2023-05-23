@@ -14,7 +14,8 @@ Collaborative Filtering Movie Recommendation Systems
 
 Data info:
 The data set is taken from the github of YBI foundation
-The data set contains the following columns
+The data set contains the following columns:
+
 Movie_ID
 Movie_Title
 Movie_Genre
